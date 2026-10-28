@@ -1,3 +1,4 @@
+/*! Desenvolvido por MTHBARROS · mthbarros.com.br | Agência Fellow Ship · agenciafellowship.com.br */
 const inputTarefa = document.querySelector('.input-tarefa');
 const btnTarefa = document.querySelector('.btn-tarefa');
 const Tarefas = document.querySelector('.tarefas');
